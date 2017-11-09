@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleList</string>
+    <string name="tab_main">Sample</string>
+    <string name="tab_add">Add</string>
+    <string name="tab_me">Me</string>
+</resources>
