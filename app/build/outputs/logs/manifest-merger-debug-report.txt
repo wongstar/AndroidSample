@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [:http] /Users/igeak/source/SampleList/http/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/igeak/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/f37df470eedf0160bbeacda0fad60cfe/AndroidManifest.xml:15:1-21:12
+MERGED from [:database] /Users/igeak/source/SampleList/database/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/1402fd5d8c0836ac61eff25093315cc0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/c651c999f3efc1a274d4450bcc4e276f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/d64a734fb65e141ad5ea925170d6c08f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/igeak/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4b8a11339206871b31d9fba473a1bb78/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/5feadde58faae294c611753e79571bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:17:1-32:12
+MERGED from [:common] /Users/igeak/source/SampleList/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6a012eb8893ff6ccb1ba0c0634976a91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/1e15a12a03755bd807836a597fc0dc3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/cec255b2bb11fcc787cc60d757214be2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/7f9a004a768544b4e74733360f5595b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/a35819c152f991a84f96ccbc12c3cd26/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/27f93aa1311c39edefeaac259b457a61/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/874ba9d9a45a1b74ba4730cf99e4d93c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/475fa8d096fef4a0208ee60739c337f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/ce5f91335a28bdc9cace660d10c30530/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bfb96356eaa58b9a007c262dbda16765/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/b0390e53c64dc07e26c0e31128465029/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/463e16dae6630566a2d6b985eef1c58a/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/228e979814cae650729beb4059fd814c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/igeak/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/baa6853db39feb290760b6780c536df7/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:8:5-95
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [:database] /Users/igeak/source/SampleList/database/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:database] /Users/igeak/source/SampleList/database/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/igeak/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/baa6853db39feb290760b6780c536df7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/igeak/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/baa6853db39feb290760b6780c536df7/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from [:database] /Users/igeak/source/SampleList/database/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:18-81
+activity#demo.igeak.com.samplelist.MainActivity
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:16:19-47
+activity#demo.igeak.com.samplelist.sample.tab.TabCategoryActivity
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:17:9-68
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:17:19-65
+activity#demo.igeak.com.samplelist.sample.tab.TabMainActivity
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:18:9-64
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:18:19-61
+activity#demo.igeak.com.samplelist.dao.DatabaseStudyActivity
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:19:9-72
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:19:19-60
+activity#demo.igeak.com.samplelist.lifecycle.MyLocationActivity
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:20:19-63
+activity#demo.igeak.com.samplelist.lifecycle.LiveDataTestActivity
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:23:19-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+MERGED from [:http] /Users/igeak/source/SampleList/http/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:http] /Users/igeak/source/SampleList/http/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/igeak/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/f37df470eedf0160bbeacda0fad60cfe/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/igeak/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/f37df470eedf0160bbeacda0fad60cfe/AndroidManifest.xml:19:5-43
+MERGED from [:database] /Users/igeak/source/SampleList/database/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:database] /Users/igeak/source/SampleList/database/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/1402fd5d8c0836ac61eff25093315cc0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/1402fd5d8c0836ac61eff25093315cc0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/c651c999f3efc1a274d4450bcc4e276f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/c651c999f3efc1a274d4450bcc4e276f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/d64a734fb65e141ad5ea925170d6c08f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/d64a734fb65e141ad5ea925170d6c08f/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/igeak/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4b8a11339206871b31d9fba473a1bb78/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/igeak/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4b8a11339206871b31d9fba473a1bb78/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/5feadde58faae294c611753e79571bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/5feadde58faae294c611753e79571bb8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:20:5-22:41
+MERGED from [:common] /Users/igeak/source/SampleList/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:common] /Users/igeak/source/SampleList/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6a012eb8893ff6ccb1ba0c0634976a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6a012eb8893ff6ccb1ba0c0634976a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/1e15a12a03755bd807836a597fc0dc3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/1e15a12a03755bd807836a597fc0dc3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/cec255b2bb11fcc787cc60d757214be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/cec255b2bb11fcc787cc60d757214be2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/7f9a004a768544b4e74733360f5595b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/7f9a004a768544b4e74733360f5595b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/a35819c152f991a84f96ccbc12c3cd26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/a35819c152f991a84f96ccbc12c3cd26/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/27f93aa1311c39edefeaac259b457a61/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/27f93aa1311c39edefeaac259b457a61/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/874ba9d9a45a1b74ba4730cf99e4d93c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/874ba9d9a45a1b74ba4730cf99e4d93c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/475fa8d096fef4a0208ee60739c337f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/475fa8d096fef4a0208ee60739c337f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/ce5f91335a28bdc9cace660d10c30530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/ce5f91335a28bdc9cace660d10c30530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bfb96356eaa58b9a007c262dbda16765/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bfb96356eaa58b9a007c262dbda16765/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/b0390e53c64dc07e26c0e31128465029/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/igeak/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/b0390e53c64dc07e26c0e31128465029/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/463e16dae6630566a2d6b985eef1c58a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/463e16dae6630566a2d6b985eef1c58a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/228e979814cae650729beb4059fd814c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/228e979814cae650729beb4059fd814c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/igeak/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/baa6853db39feb290760b6780c536df7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/igeak/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/baa6853db39feb290760b6780c536df7/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/igeak/source/SampleList/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] /Users/igeak/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0.aar/302fd8091944680185900fcd49a4b180/AndroidManifest.xml:26:13-83

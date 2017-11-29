@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="tips_title">提示</string>
+    <string name="tips_positive_sure">确定</string>
+    <string name="no_permissions">权限不够,请在设置中设置需要的权限</string>
+</resources>

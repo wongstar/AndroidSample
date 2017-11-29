@@ -3,4 +3,7 @@
     <string name="tab_main">Sample</string>
     <string name="tab_add">Add</string>
     <string name="tab_me">Me</string>
+    <string name="tab_category_one">TabHost</string>
+    <string name="tab_category_two">Other</string>
+    <string name="tab_sample">TabSample</string>
 </resources>

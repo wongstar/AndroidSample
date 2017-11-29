@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleList</string>
+    <string name="tab_main">例子</string>
+    <string name="tab_add">+</string>
+    <string name="tab_me">我</string>
+    <string name="tab_category_one">TabHost例子</string>
+    <string name="tab_category_two">第三方库</string>
+    <string name="tab_sample">Tab例子</string>
+</resources>

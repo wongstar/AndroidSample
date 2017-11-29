@@ -3,6 +3,7 @@ package demo.igeak.com.samplelist;
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
+import android.util.Log;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -22,5 +23,22 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("demo.igeak.com.samplelist", appContext.getPackageName());
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
+
+    @Test
+    public void test1(){
+        System.out.println("xxxx");
+        Log.e("star","xxcs");
+    }
+
+
+    @Deprecated
+    public void test(){
+
     }
 }

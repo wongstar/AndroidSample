@@ -1,0 +1,4 @@
+#Fri Nov 24 16:26:55 CST 2017
+base.0=/Users/igeak/source/SampleList/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

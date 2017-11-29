@@ -1,16 +1,28 @@
 package demo.igeak.com.samplelist;
 
+import android.annotation.SuppressLint;
+import android.content.Intent;
+import android.os.Handler;
+import android.os.Message;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
+import java.lang.annotation.Annotation;
+import java.lang.annotation.Inherited;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
-import demo.igeak.com.samplelist.sample.ClassItem;
-import demo.igeak.com.samplelist.sample.RecyclerFragment;
+import demo.igeak.com.samplelist.sample.recycler.ClassItem;
+import demo.igeak.com.samplelist.sample.recycler.RecyclerFragment;
+import demo.igeak.com.samplelist.sample.tab.AboutMeFragment;
+import demo.igeak.com.samplelist.sample.tab.AddFragment;
+import demo.igeak.com.samplelist.sample.tab.TabCategoryActivity;
+import demo.igeak.com.samplelist.sample.tab.TabFragmentPageAdapter;
 
 
 public class MainActivity extends AppCompatActivity implements RadioGroup.OnCheckedChangeListener,ViewPager.OnPageChangeListener{
@@ -38,19 +50,23 @@ public class MainActivity extends AppCompatActivity implements RadioGroup.OnChec
         radioButtonSample = findViewById(R.id.rbSample);
         radioButtonAdd = findViewById(R.id.rbAdd);
         radioButtonMe = findViewById(R.id.rbMe);
-
+        radioButtonSample.setChecked(true);
         vpView.setAdapter(new TabFragmentPageAdapter(getSupportFragmentManager(),getFragments()));
         vpView.setCurrentItem(0);
+
         vpView.setOnPageChangeListener(this);
+
         radioGroup.setOnCheckedChangeListener(this);
+
     }
 
 
 
     public List getFragments() {
         Bundle bundle = new Bundle();
-        ClassItem itemA = new ClassItem("A","A");
-        ClassItem itemB = new ClassItem("B","B");
+        Intent intent = new Intent(MainActivity.this, TabCategoryActivity.class);
+        ClassItem itemA = new ClassItem(getString(R.string.tab_sample),intent);
+        ClassItem itemB = new ClassItem(getString(R.string.tab_sample),intent);
         ArrayList<ClassItem> items = new ArrayList<>();
         items.add(itemA);
         items.add(itemB);

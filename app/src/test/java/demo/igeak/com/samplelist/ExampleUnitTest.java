@@ -2,6 +2,8 @@ package demo.igeak.com.samplelist;
 
 import org.junit.Test;
 
+import java.io.InputStream;
+
 import static org.junit.Assert.*;
 
 /**
@@ -12,6 +14,9 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
+        System.out.println("xx");
         assertEquals(4, 2 + 2);
+        InputStream
     }
+
 }

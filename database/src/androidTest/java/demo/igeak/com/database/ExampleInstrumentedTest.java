@@ -7,6 +7,11 @@ import android.support.test.runner.AndroidJUnit4;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
+import java.lang.reflect.Method;
+
+import demo.igeak.com.database.greendao.User;
+import demo.igeak.com.database.greendao.UserAnnotation;
+
 import static org.junit.Assert.*;
 
 /**
@@ -23,4 +28,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("demo.igeak.com.database.test", appContext.getPackageName());
     }
+
+
 }

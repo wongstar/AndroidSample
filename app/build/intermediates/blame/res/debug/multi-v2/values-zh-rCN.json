@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/igeak/source/SampleList/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "/Users/igeak/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6a012eb8893ff6ccb1ba0c0634976a91/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1840",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1913"
+                    }
+                },
+                {
+                    "source": "/Users/igeak/source/SampleList/app/src/main/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "2,4,6,7,3,5,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,218,273,103,181,323",
+                        "endColumns": "47,37,54,49,39,36,44",
+                        "endOffsets": "98,176,268,318,138,213,363"
+                    },
+                    "to": {
+                        "startLines": "19,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1731,2019,2057,2112,2162,2202,2239",
+                        "endColumns": "47,37,54,49,39,36,44",
+                        "endOffsets": "1774,2052,2107,2157,2197,2234,2279"
+                    }
+                },
+                {
+                    "source": "/Users/igeak/source/SampleList/common/build/intermediates/bundles/debug/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "103,164,214",
+                        "endColumns": "60,49,41",
+                        "endOffsets": "159,209,251"
+                    },
+                    "to": {
+                        "startLines": "20,29,30",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1779,2284,2334",
+                        "endColumns": "60,49,41",
+                        "endOffsets": "1835,2329,2371"
+                    }
+                },
+                {
+                    "source": "/Users/igeak/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bfb96356eaa58b9a007c262dbda16765/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1918",
+                        "endColumns": "100",
+                        "endOffsets": "2014"
+                    }
+                }
+            ]
+        }
+    ]
+}
